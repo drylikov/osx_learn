@@ -3,7 +3,7 @@
 
 
 
-# osx_learn
+# OSX learn
 
 ![`bin/sh`][bash]
 
