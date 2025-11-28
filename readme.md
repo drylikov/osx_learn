@@ -55,6 +55,7 @@ npm install osx-learn --global
 
 
 
+
 ```text
 Usage: learn [options] <word> [language]
 
