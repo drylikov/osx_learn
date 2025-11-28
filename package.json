@@ -1,0 +1,31 @@
+
+{
+  "name": "osx_learn",
+  "version": "1.1.2",
+  "description": "Add words to the OS X Spell Check dictionary",
+  "license": "MIT",
+  "keywords": [
+    "cli",
+    "bin",
+    "mac",
+    "osx",
+    "learn",
+    "spelling",
+    "corrent"
+  ],
+  "repository": "drylikov/osx_learn",
+  "author": "Denis Rylikov <denis.rylikov@protonmail.com>",
+  "contributors": [
+    "Denis Rylikov <denis.rylikov@protonmail.com> "    
+  ],
+  "files": [
+    "osx-learn.sh",
+    "man"
+  ],
+  "bin": {
+    "learn": "osx-learn.sh"
+  },
+  "directories": {
+    "man": "./man"
+  }
+}
